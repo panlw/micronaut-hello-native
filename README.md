@@ -13,3 +13,4 @@ Uber-jar:
 - sub procs: 22
 - runtime cost: VIRT 6653M, RES 325M, SHR 52M
 
+> RES is double size if Spring Boot with Reactive-Netty
